@@ -48,7 +48,7 @@ https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-
 ## Repository Contents
 
 ```text
-AI_Generated_Image_Detection_COMP430_FINAL_REVISED.ipynb
+AI_Generated_Image_Detection_COMP430_FINAL.ipynb
 README.md
 ```
 
